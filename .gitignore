@@ -5,3 +5,4 @@ __pycache__/
 *.aux
 *.out
 *.synctex.gz
+temp.tex
